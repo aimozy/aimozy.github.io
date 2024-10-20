@@ -1,4 +1,4 @@
-baseURL               = "https://aim.aimtop.top/aimtop/"
+baseURL               = "https://book.aimtop.top/"
 languageCode          = "zh-CN"
 title                 = "瞄顶顶"
 theme                 = "WebStack-Hugo"
